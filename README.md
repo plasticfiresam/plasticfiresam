@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Vitaliy Podushkin aka @plasticfiresam
+- 👀 I’m interested in mobile development and CI/CD processes
+- 🌱 I’m currently learning Flutter and Kotlin
