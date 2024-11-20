@@ -4,6 +4,8 @@ I’m a passionate **mobile developer** with **7+ years of experience in IT**, s
 
 My current React/Next.js playground: [Health Tracker](https://health.plasticfire.tech)
 
+Also trying to be some kind of blogger in [Telegram](https://t.me/plastic_spraying)
+
 ---
 
 ## 📂 Experience
@@ -29,5 +31,5 @@ My current React/Next.js playground: [Health Tracker](https://health.plasticfire
 ## 🛠️ Skills
 
 - **Mobile Development:** Flutter, Dart, Swift/Kotlin  
-- **Web Development:** React, Next.js, TypeScript, HTML/CSS, Deno  
-- **Tools & Practices:** Git, Firebase, RESTful API, CI/CD  
+- **Web Development:** React, Next.js, Angular 2+, TypeScript, HTML/CSS, Deno  
+- **Tools & Practices:** Git, Firebase, RESTful API, CI/CD, SOLID  
