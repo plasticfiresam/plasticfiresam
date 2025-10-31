@@ -7,10 +7,12 @@ Also trying to be some kind of blogger in [Telegram](https://t.me/plastic_sprayi
 ---
 
 ## 📂 Experience
+- **Independent developer**
+ *Mobile and Frontend developer capable of architecture design of complex systems*
 
 - **Solutions4Future** ([solutions4future.ru](https://solutions4future.ru)) (*subsidiary of Unilever RuBy*)  
   *Lead Developer for HR Products*  
-  *(Since Sep 2024)*
+  *(Sep 2024 - Sep 2025)*
 
 - **Surf Studio ([surf.dev](https://surf.dev))**  
   *Senior Developer, ex-Tech Lead, and Pre-Sale Lead*  
