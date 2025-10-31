@@ -2,8 +2,6 @@
 
 I’m a passionate **mobile developer** with **7+ years of experience in IT**, specializing in **Flutter** for cross-platform app development. I also enjoy diving into **CI/CD processes** and various **automation tasks**, ensuring smooth and efficient workflows. Additionally, I’m currently exploring **web development** with **React** and **Next.js**, expanding my skill set to build scalable, high-performance solutions.
 
-Also trying to be some kind of blogger in [Telegram](https://t.me/plastic_spraying)
-
 ---
 
 ## 📂 Experience
