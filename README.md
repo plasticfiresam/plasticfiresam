@@ -5,12 +5,12 @@ I’m a passionate **mobile developer** with **7+ years of experience in IT**, s
 ---
 
 ## 📂 Experience
-- **Independent developer**
- *Mobile and Frontend developer capable of architecture design of complex systems*
-
 - **Surf Studio ([surf.dev](https://surf.dev))**  
   *Senior Developer, Flutter Lead*  
   *(September 2026 – Now)*
+
+- **Independent developer**
+ *Mobile and Frontend developer capable of architecture design of complex systems*
 
 - **Solutions4Future** ([solutions4future.ru](https://solutions4future.ru)) (*subsidiary of Unilever RuBy*)  
   *Lead Developer for HR Products*  
