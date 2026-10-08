@@ -38,7 +38,7 @@ Since January 2026 everything I build goes through AI tools. Over the year it gr
 
 - **Q1 — AI as a debugger.** Cursor and its agent for investigating and fixing bugs in existing production projects.
 - **Q2 — Spec-driven development.** Hand-written specifications (functional, API and non-functional requirements, user scenarios) and Figma MCP integration. Agents implemented features in parallel with my own work in the same project.
-- **Q3 → now — AI-first.** Tasks are closed by agents (Claude Code, Codex, and Cursor until June 2026) running in parallel in isolated environments. In existing projects I build the infrastructure for agentic development; new products are built entirely with AI.
+- **Q3 → now — AI-first.** Tasks are closed by agents (Claude Code and Codex) running in parallel in isolated environments. In existing projects I build the infrastructure for agentic development; new products are built entirely with AI.
 
 ### Making existing projects agent-ready
 
